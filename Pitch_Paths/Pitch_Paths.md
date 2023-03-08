@@ -2,7 +2,7 @@ Pitch_Paths
 ================
 2023-03-08
 
-\#Pitch_Paths \##A markdown by BigLeagueBayes This markdown doc
+\#Pitch_Paths \##A markdown by Sam Bogan for his BigLeagueBayes repo. This markdown 
 demonstratres a method for plotting the paths of Statcast pitches
 between release and the strikezone by applying splines to pitch
 coordinates adjusted with horizontal and vertical movement. The goal of
